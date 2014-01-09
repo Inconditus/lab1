@@ -1,0 +1,36 @@
+.container {
+  padding: 50px 0;
+  margin: 0 auto;
+  width: 400px;
+  text-align:center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size:20px;
+  line-height: 1.5em;
+}
+
+h1 {
+  font-family: 'PT Serif', serif;
+  font-weight:700;
+  font-size: 35px;
+  color:rgba(0,0,0,0.9);
+  padding: 10px;
+  }
+h2 {
+  padding-bottom: 30px;
+}
+h4 {
+  font-weight:400;
+}
+
+p {
+  font-size:12px;
+}
+strong {
+  font-weight:400;
+}
+a {
+  color:rgba(0,0,0,0.8);
+  text-decoration: underline;
+}
+
